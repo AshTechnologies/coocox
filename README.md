@@ -12,3 +12,5 @@ run the installer
 Open Project->Select Toolchain Path
 Set the path to the loaction of the arm-none-eabi-gcc compiler
 example:  C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q1\bin
+
+projects can be imported as normal
