@@ -1,0 +1,2 @@
+# coocox
+coocox setup file
